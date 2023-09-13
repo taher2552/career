@@ -251,7 +251,7 @@ input[class="carrer-search"] {
 .career-role-location {
   width: 50rem;
   margin: 0 auto;
-  margin-top: 5rem;
+  margin-top: 3.5rem;
 }
 
 .role-location {
@@ -281,7 +281,7 @@ input[class="carrer-search"] {
   display: flex;
   justify-content: start;
   align-items: center;
-  margin-bottom: 2rem;
+  margin-bottom: 3rem;
 }
 
 .career-options {
@@ -326,6 +326,7 @@ text-transform: uppercase;
 .career-col{
   margin-right: 3rem;
   margin-bottom: 1rem;
+  padding-top: 0.3rem;
 }
 
 
